@@ -30,14 +30,14 @@
 	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
 		activeBuildConfigurationName = Release;
-		activeExecutable = ED1E4A0A12C2486200B2FC7B /* RecBoot */;
-		activeTarget = 8D1107260486CEB800E47090 /* RecBoot */;
+		activeExecutable = ED1E4A0A12C2486200B2FC7B /* WattsBoot */;
+		activeTarget = 8D1107260486CEB800E47090 /* WattsBoot */;
 		addToTargets = (
-			8D1107260486CEB800E47090 /* RecBoot */,
+			8D1107260486CEB800E47090 /* WattsBoot */,
 		);
 		codeSenseManager = ED1E4A1012C2488100B2FC7B /* Code sense */;
 		executables = (
-			ED1E4A0A12C2486200B2FC7B /* RecBoot */,
+			ED1E4A0A12C2486200B2FC7B /* WattsBoot */,
 		);
 		perUserDictionary = {
 			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
@@ -130,10 +130,10 @@
 			sepNavVisRange = "{0, 248}";
 		};
 	};
-	8D1107260486CEB800E47090 /* RecBoot */ = {
+	8D1107260486CEB800E47090 /* WattsBoot */ = {
 		activeExec = 0;
 		executables = (
-			ED1E4A0A12C2486200B2FC7B /* RecBoot */,
+			ED1E4A0A12C2486200B2FC7B /* WattsBoot */,
 		);
 	};
 	ED11D47612D07E0E000E6B32 /* PBXTextBookmark */ = {
@@ -167,7 +167,7 @@
 		rLen = 0;
 		rLoc = 9223372036854775808;
 	};
-	ED1E4A0A12C2486200B2FC7B /* RecBoot */ = {
+	ED1E4A0A12C2486200B2FC7B /* WattsBoot */ = {
 		isa = PBXExecutable;
 		activeArgIndices = (
 		);
