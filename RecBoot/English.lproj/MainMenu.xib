@@ -44,7 +44,7 @@
 				<array class="NSMutableArray" key="NSMenuItems">
 					<object class="NSMenuItem" id="694149608">
 						<reference key="NSMenu" ref="649796088"/>
-						<string key="NSTitle">RecBoot</string>
+						<string key="NSTitle">WattsBoot</string>
 						<string key="NSKeyEquiv"/>
 						<int key="NSKeyEquivModMask">1048576</int>
 						<int key="NSMnemonicLoc">2147483647</int>
@@ -59,11 +59,11 @@
 						<string key="NSAction">submenuAction:</string>
 						<reference key="NSTarget" ref="110575045"/>
 						<object class="NSMenu" key="NSSubmenu" id="110575045">
-							<string key="NSTitle">RecBoot</string>
+							<string key="NSTitle">WattsBoot</string>
 							<array class="NSMutableArray" key="NSMenuItems">
 								<object class="NSMenuItem" id="238522557">
 									<reference key="NSMenu" ref="110575045"/>
-									<string key="NSTitle">About RecBoot</string>
+									<string key="NSTitle">About WattsBoot</string>
 									<string key="NSKeyEquiv"/>
 									<int key="NSMnemonicLoc">2147483647</int>
 									<reference key="NSOnImage" ref="35465992"/>
@@ -91,7 +91,7 @@
 								</object>
 								<object class="NSMenuItem" id="632727374">
 									<reference key="NSMenu" ref="110575045"/>
-									<string key="NSTitle">Quit RecBoot</string>
+									<string key="NSTitle">Quit WattsBoot</string>
 									<string key="NSKeyEquiv">q</string>
 									<int key="NSKeyEquivModMask">1048576</int>
 									<int key="NSMnemonicLoc">2147483647</int>
@@ -110,7 +110,7 @@
 				<int key="NSWindowBacking">2</int>
 				<string key="NSWindowRect">{{447, 320}, {394, 228}}</string>
 				<int key="NSWTFlags">1954021376</int>
-				<string key="NSWindowTitle">RecBoot</string>
+				<string key="NSWindowTitle">WattsBoot</string>
 				<string key="NSWindowClass">NSWindow</string>
 				<nil key="NSViewClass"/>
 				<nil key="NSUserInterfaceItemIdentifier"/>
