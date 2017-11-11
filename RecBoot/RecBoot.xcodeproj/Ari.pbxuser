@@ -1,6 +1,6 @@
 // !$*UTF8*$!
 {
-	0205A4D212C30624007456AE /* RecBoot */ = {
+	0205A4D212C30624007456AE /* WattsBoot */ = {
 		isa = PBXExecutable;
 		activeArgIndices = (
 		);
@@ -28,7 +28,7 @@
 		executableSystemSymbolLevel = 0;
 		executableUserSymbolLevel = 0;
 		libgmallocEnabled = 0;
-		name = RecBoot;
+		name = WattsBoot;
 		savedGlobals = {
 		};
 		showTypeColumn = 0;
